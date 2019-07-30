@@ -1,0 +1,301 @@
+OK so let's let's go to what.
+
+Basically ethical hackers do in their career
+
+ethical hackers perform imitations of real world attacks.
+
+But of course no one is interested in just getting the idea whether they can be hacked or not.
+
+Right.
+
+So the binary answer of.
+
+Yeah.
+
+We have breaking in or we haven't broken in because so I don't know.
+
+We had we had less money than expected for that or we had less time than is required for that.
+
+Okay.
+
+That is not very interesting to the clients.
+
+So the work of ethical hackers is much more methodical than the black hats.
+
+So Black has just striking to the abuses they know exists and they just find them in the targets.
+
+And this is how they choose targets.
+
+OK.
+
+Basically they just know that something is wrong with the word breast right now and they target word
+
+breast based websites.
+
+What ethical hackers do they choose their targets based on their clients Glans relationships.
+
+OK.
+
+So they find a sales opportunity they pitch the idea of being hacked before bad guys cause you harm.
+
+And then they just perform a penetration test or security audit or security assessment and they do that
+
+according to a certain methodology.
+
+Because because being methodical is very important in two aspects first of all everything you do should
+
+be repeatable.
+
+OK.
+
+So the clients should have at least a theoretical ability to reproduce your actions OK.
+
+And they have to do that according to some methodology because otherwise if there is no methodology
+
+to follow they will just rely on your work.
+
+And this is not very professional.
+
+And there are other applications implications of that.
+
+And the second thing is that there is different level of technical skill and experience in the industry
+
+so using methodology basically lets us transfer a lot of work downstream in this skill tree.
+
+OK.
+
+From more experienced guys less experience.
+
+Got to
+
+give them incentive to do more to do more different job to do a more difficult job and this way progress
+
+and get experience and become become those more experienced guys.
+
+So a methodology is is how we formulate what we know what we can do to the people who are just very
+
+new to that and are in the beginning or half way to us in this role.
+
+What is the difference between security audit security assessments and penetration tests.
+
+These are just different things we can do about a system in order to assess its security level.
+
+OK.
+
+But that's very important to understand that security audits just based on the definition of a word
+
+audit is not a pen test or assessment.
+
+It's a very specific thing that is related to the previous history you know.
+
+So so every time we use this word audit we mean that we review previous history.
+
+We review some period of time and we make conclusions not just assumptions we make specific conclusions
+
+that are proved proven by the evidence that we collect that something was going on for a period of time.
+
+For example we have a control authentication control access control right and we review the excess looks
+
+and we conclude that this control was active continuously during last year and was effective and no
+
+one was going in.
+
+Other than using this access control mechanism.
+
+What a security assessment that's that's a different thing.
+
+Simpler one actually that's just the understanding what's going on right now.
+
+So taking a snapshot in time and assessing the posture of a system.
+
+Yeah.
+
+So in this way for example auditing is different from beside you assess like security assessment.
+
+Yes.
+
+Do you assess are called that for a reason.
+
+They're not auditors they're qualified security assessors who are going in and seeing things and making
+
+conclusions about what's going on right now.
+
+They're not very much interested in what was going on before they came in.
+
+Right.
+
+They're interested in what's going on right now.
+
+And for that just suggest for example as part of the job they verify whether penetration test took place
+
+regularly.
+
+OK.
+
+So they want to know whether right now three's a progress on on a previously issued penetration test
+
+reports and you just have to show it to them.
+
+And they just see what's in the results but they aren't interested whether everything is fixed.
+
+You have to be.
+
+It has to be a work in progress right now.
+
+Okay.
+
+So what is penetration test it's a test.
+
+First of all so it's something very interactive.
+
+We are issuing signals and seeing how systems or people are reacting to them.
+
+OK.
+
+So that's very much just testing anything just producing some impulses and assessing and observing the
+
+results.
+
+So we are interacting with an object with the target in order to understand how it reacts to different
+
+types of attacks.
+
+We generate these attacks and we understand how system reacts to it.
+
+So if if the reaction is appropriate we conclude that the security posture is OK is the reaction is
+
+not appropriate is lower than expected.
+
+We conclude that there is a security issue.
+
+We dig deeper we understand what's the vulnerability and create a recommendation on how to remove it
+
+or how to make things more secure.
+
+After we go away so penetration test is indirectly testing the system in terms of resilience and the
+
+resistance to security threats slash attacks.
+
+OK.
+
+What is the assessment scope.
+
+This is something very general.
+
+And this relates to any type of security assessment right including penetration testing security audits.
+
+This is some boundaries in time space that define what is going to be assessed.
+
+So for example it's it's an area or it's a name of a company mentioning that NSA any 80 a set of this
+
+company is within the scope or is just the wild card the DNS name.
+
+Or at least explicit list of IP addresses or you or else or API calls whatever.
+
+So it can be very different.
+
+It can be broad can be narrow the broader it is the more high quality results I think hackers can produce
+
+when they assess that scope however large scopes are very very questionable.
+
+And also you have to assess the scope in terms of the methodology you use.
+
+But the large scopes and the methodology of chosen methodology for white box explicit testing of everything
+
+provided in the scope statement can be very time consuming.
+
+OK.
+
+So you have to balance that when the when you negotiate the scope with the customer and the clients
+
+should understand that the only things in the scope will be tested and that nor narrowing down the scope
+
+to a few very secure targets will not give them understanding about what's the general security posture
+
+is this is the very tricky topic I guess we'll discuss this further and what what's what's what's the
+
+what's the matter of the chosen methodology against.
+
+So as as this matter of
+
+coloring of painting had some different colors shows you security professionals like liked to paint
+
+and different ideologies.
+
+Full normally fall down into one of three categories that's either black box testing or white box testing
+
+or something between cold grey box testing.
+
+Yeah I'm not a big fan of of coloring these boxes but still have to use some terminology and however
+
+we can that we can not we cannot be sure and we cannot guarantee that there is something on these edges
+
+right.
+
+That is a completely black box or completely white box because there are always these gray areas.
+
+So anything we do is create box naturally but it's bias to either black edge or white edge of this security
+
+methodology scale.
+
+So what does it mean.
+
+Black box means first of all what you have zero knowledge about the scope when we start the assessment
+
+is does not mean that we physically right have zero knowledge about that.
+
+But this implies that we will use a methodology with this premise right.
+
+With this perception of zero knowledge about the scope we will act such as in a manner that implies
+
+that we don't have any knowledge so we will have to go through all the reconnaissance stages starting
+
+from zero knowledge and show that yeah the data that we are using further in the assessment was obtained
+
+from the zero level from the zero knowledge about the scope.
+
+This is very important to show the business risk because if we just know something we have to show that
+
+other people that black hat hackers can can know that as well.
+
+After some time Googling or doing other type of open source intelligence white books on the other hand
+
+is complete different thing.
+
+It means that we do not spend time on reconnaissance at all.
+
+We have unlimited knowledge about the scope from the very beginning.
+
+This normally implies thein directive our ability to interact with any personnel involved in security
+
+operations.
+
+So any developer and it develops engineer anyone who can be reached and asked about different things
+
+about the scope will be reached and asked.
+
+OK so this is this is another extreme point.
+
+This is this is not possible normally because for example when we have white box testing we mean that
+
+we can access the source code of an application that is not normally possible due to some self-importance
+
+are off the shelf ones and this source code is not readily available.
+
+So yeah we fall somewhere in between.
+
+We have some sort of a black box when we just explicitly define the scope and we don't have any information
+
+about what the what's the operating system that's running on this specific caused by this IP address
+
+but we know the IP address or domain name.
+
+Or we have a domain and we have to dig into it and retrieve all the hosts that belong to this domain.
+
+And on the networks that they are in and then we can scan these networks to identify additional horse
+
+and four or five whether they belong to the same company and so on so yeah this is quite tricky but
+
+just to sum it up we have different type of assessments and we have different type of methodologies
+
+that can differ from black books through grade books to white books.
